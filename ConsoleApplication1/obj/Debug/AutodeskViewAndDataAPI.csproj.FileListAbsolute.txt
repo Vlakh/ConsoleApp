@@ -1,0 +1,11 @@
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\obj\Debug\AutodeskViewAndDataAPI.csprojResolveAssemblyReference.cache
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\bin\Debug\RestSharp.dll
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\bin\Debug\RestSharp.xml
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\bin\Debug\ConsoleApp.exe.config
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\bin\Debug\ConsoleApp.exe
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\bin\Debug\ConsoleApp.pdb
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\obj\Debug\ConsoleApp.exe
+I:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\obj\Debug\ConsoleApp.pdb
+H:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\bin\Debug\ConsoleApp.exe.config
+H:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\obj\Debug\ConsoleApp.exe
+H:\файлы\Полиграфия\AutoCAD API\ConsoleApplication\ConsoleApplication1\obj\Debug\ConsoleApp.pdb
