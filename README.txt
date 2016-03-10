@@ -17,3 +17,4 @@ tel: +380931323045
 e-mail: vlakhvetal@mail.ru
 e-mail: vlakh.v.v@gmail.com
 web: http://mechanism.hol.es
+web: www.vlakh.xyz
